@@ -1,0 +1,14 @@
+{
+  "name": "nomad",
+  "version": "1.0.0",
+  "description": "Distributed Nodes For Robot Glory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZQ Yeo",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.0.1"
+  }
+}
